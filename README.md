@@ -13,9 +13,12 @@ Hey there! 👋 I'm Gautam Aggarwal, a Computer Science student with a knack for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamAggarwal-05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![snake gif](https://github.com/GautamAggarwal-05/GautamAggarwal-05/blob/output/github-snake-dark.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GautamAggarwal-05&icon=3&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=GautamAggarwal-05&icon=3&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
